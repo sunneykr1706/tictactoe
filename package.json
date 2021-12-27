@@ -2,7 +2,7 @@
     "name": "simple-reactjs-app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://sunneykr1706.github.io/ticreact",
+    "homepage": "https://sunneykr1706.github.io/tictactoe",
     "dependencies": {
         "axios": "^0.18.0",
         "react": "^16.4.1",
